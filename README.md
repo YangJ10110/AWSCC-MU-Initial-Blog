@@ -1,5 +1,6 @@
 # Building Together: How AWSCC MU Fostered Community-Driven Software Development
 Author: Jerome Yang
+
 AWSCC
 
 ## Beyond Code: Fostering Real-World Software Practices
